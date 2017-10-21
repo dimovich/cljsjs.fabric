@@ -1,7 +1,3 @@
-# cljsjs.fabric
-Fabric.js package for ClojureScript.
-
-
 # cljsjs/fabric
 
 [](dependency)
